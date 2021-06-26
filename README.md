@@ -39,7 +39,7 @@ Wrong Activation Key
 Activation Key Succsesfully Activated
 ```js
 {
-"Status\":"Activated",
+"Status":"Activated",
 "HWID":"hwid",
 "License":"key",
 "LicenseTime":"30",
@@ -52,7 +52,7 @@ Activation Key Succsesfully Activated
 Activation Key Banned
 ```js
 {
-"Status\":"Banned",
+"Status":"Banned",
 "HWID":"hwid",
 "License":"key",
 "LicenseTime":"30",
@@ -65,7 +65,7 @@ Activation Key Banned
 Activation Key Subscription Ended
 ```js
 {
-"Status\":"SubEnded",
+"Status":"SubEnded",
 "HWID":"hwid",
 "License":"key",
 "LicenseTime":"30",
@@ -78,7 +78,7 @@ Activation Key Subscription Ended
 Wrong HWID
 ```js
 {
-"Status\":"WrongHWID",
+"Status":"WrongHWID",
 "License":"key",
 "CheatID":"1"
 }
@@ -87,7 +87,7 @@ Wrong HWID
 Succsesfull Auth
 ```js
 {
-"Status\":"Authorized",
+"Status":"Authorized",
 "HWID":"hwid",
 "License":"key",
 "LicenseTime":"30",
