@@ -3,7 +3,7 @@
 $dbHOST = "localhost";
 $dbUSER = "root";
 $dbPASS = "root";
-$dbNAME = "netcheats";
+$dbNAME = "databasename";
 
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
