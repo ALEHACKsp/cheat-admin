@@ -27,7 +27,7 @@ hwid* | string | This field is used to bind the key to a specific PC.
 
 *always requered
 
-Responses
+## Responses
 
 Wrong Activation Key
 ```js
