@@ -16,18 +16,13 @@
  * Import the database (DATABASE.sql) into PhpMyAdmin.
  * Open the Controllers folder, go to the file globals.php and replace the username/password/database name on lines 4-6, respectively.
 
-# API Requests
+# API Requests - AUTH
  #### Important - send all requests to "sitename.com/api/api.php" in the POST format.
  
  Name | Type | Desc
 ----- | -----|--------
 type* | string | This field is used to define the action. AUTH/LOG/FILE
 key*  | string | The user's activation key. It is used to identify a person.
-
-To authorize the user, the data from the fields above, as well as the HWID, is required.
-
- Name | Type  | Desc
------ | ----- |--------
 hwid* | string | This field is used to bind the key to a specific PC.
 
 *always requered
